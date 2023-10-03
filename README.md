@@ -175,7 +175,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ## STM 32 CUBE PROGRAM :
 ```
 Name: G.Jayanth.
-Reg.No: 212221230030..
+Reg.No: 212221230030.
 ```
 ```
 /* USER CODE BEGIN Header */
